@@ -2,13 +2,19 @@
 
 > Modern responsive web application and interactive UI component showcase built with React, Framer Motion, and Bootstrap 5.
 
-### 🛠️ Tech Stack & Topics
+### Tech Stack & Topics
+`react` | `bootstrap5` | `framer-motion` | `ui-components` | `frontend` | `javascript`
+
+
+> Modern responsive web application and interactive UI component showcase built with React, Framer Motion, and Bootstrap 5.
+
+###  Tech Stack & Topics
 `react` `bootstrap5` `framer-motion` `ui-components` `frontend` `javascript`
 
 
 A responsive modern web application and interactive UI component showcase built with React, Framer Motion animations, and Bootstrap 5 styling.
 
-### 🛠️ Tech Stack & Badges
+###  Tech Stack & Badges
 `React` `Framer Motion` `Bootstrap 5` `Lucide Icons` `Frontend`
 
 ---
@@ -82,4 +88,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# Interface" 
-"# Interface" 
+"# Interface"
