@@ -1,5 +1,11 @@
 # Modern Web Interface & Interactive Dashboard
 
+> Modern responsive web application and interactive UI component showcase built with React, Framer Motion, and Bootstrap 5.
+
+### 🛠️ Tech Stack & Topics
+`react` `bootstrap5` `framer-motion` `ui-components` `frontend` `javascript`
+
+
 A responsive modern web application and interactive UI component showcase built with React, Framer Motion animations, and Bootstrap 5 styling.
 
 ### 🛠️ Tech Stack & Badges
