@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Modern Web Interface & Interactive Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive modern web application and interactive UI component showcase built with React, Framer Motion animations, and Bootstrap 5 styling.
+
+### 🛠️ Tech Stack & Badges
+`React` `Framer Motion` `Bootstrap 5` `Lucide Icons` `Frontend`
+
+---
+
+
 
 ## Available Scripts
 
